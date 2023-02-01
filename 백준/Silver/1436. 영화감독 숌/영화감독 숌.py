@@ -1,7 +1,7 @@
 N = int(input())
 num = 666
 
-while(N):
+while N:
     if '666' in str(num):
         N -= 1
     
